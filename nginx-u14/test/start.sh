@@ -1,2 +1,2 @@
 #!/bin/sh
-docker start static_web
+docker start nginx-test

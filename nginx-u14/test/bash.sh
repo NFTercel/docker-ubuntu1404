@@ -1,2 +1,2 @@
 #!/bin/sh
-docker exec -it static_web  /bin/bash
+docker exec -it nginx-test  /bin/bash

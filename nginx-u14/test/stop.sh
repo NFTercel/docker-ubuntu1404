@@ -1,2 +1,2 @@
 #!/bin/sh
-docker stop static_web
+docker stop nginx-test

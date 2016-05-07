@@ -1,3 +1,3 @@
 #!/bin/sh
-docker stop static_web
-docker rm static_web
+docker stop nginx-test
+docker rm nginx-test
